@@ -88,15 +88,11 @@ Steps to make this happen:
 
 Let’s take a look for top and bottom ten results
 
-![A screen shot of numbers
-
-Description automatically generated](Images/Aspose.Words.48a053ad-f7c9-48b0-bd2b-65205aceea1b.001.png) 
+![A screen shot of numbers Description automatically generated](Images/Aspose.Words.48a053ad-f7c9-48b0-bd2b-65205aceea1b.001.png) 
 
 `            `Top ten result
 
-![A screen shot of a number
-
-Description automatically generated](Images/Aspose.Words.48a053ad-f7c9-48b0-bd2b-65205aceea1b.002.png) 
+![A screen shot of a number Description automatically generated](Images/Aspose.Words.48a053ad-f7c9-48b0-bd2b-65205aceea1b.002.png) 
 
 `        `Bottom ten result
 
@@ -117,21 +113,19 @@ Considering our earlier assertion that "a higher percentage will result in fewer
 
 **Output**
 
-![A black background with white text
-
-Description automatically generated](Images/Aspose.Words.48a053ad-f7c9-48b0-bd2b-65205aceea1b.003.png)
+![A black background with white text Description automatically generated](Images/Aspose.Words.48a053ad-f7c9-48b0-bd2b-65205aceea1b.003.png)
 
 3 sec to get top 10. Of course, this time will vary from device to device. It depend on the CPU speed and storage speed, etc.
 
-![لا يتوفر وصف.](Images/Images/Aspose.Words.48a053ad-f7c9-48b0-bd2b-65205aceea1b.004.png)
+![No Description Available](Images/Images/Aspose.Words.48a053ad-f7c9-48b0-bd2b-65205aceea1b.004.png)
 
 7 sec to print all accounts.
 
-![لا يتوفر وصف.](Images/Aspose.Words.48a053ad-f7c9-48b0-bd2b-65205aceea1b.005.png)
+![No Description Available](Images/Aspose.Words.48a053ad-f7c9-48b0-bd2b-65205aceea1b.005.png)
 
 10 sec to print and store all these data and calculate mean and standard deviation to text file called Result.txt
 
-![](Images/Aspose.Words.48a053ad-f7c9-48b0-bd2b-65205aceea1b.006.png)
+![No Description Available](Images/Aspose.Words.48a053ad-f7c9-48b0-bd2b-65205aceea1b.006.png)
 
 Bonus function runs in 2 sec.
 ![](Images/Aspose.Words.48a053ad-f7c9-48b0-bd2b-65205aceea1b.007.png)
