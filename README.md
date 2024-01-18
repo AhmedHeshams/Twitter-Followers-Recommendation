@@ -117,7 +117,7 @@ Considering our earlier assertion that "a higher percentage will result in fewer
 
 3 sec to get top 10. Of course, this time will vary from device to device. It depend on the CPU speed and storage speed, etc.
 
-![No Description Available](Images/Images/Aspose.Words.48a053ad-f7c9-48b0-bd2b-65205aceea1b.004.png)
+![No Description Available](Images/Aspose.Words.48a053ad-f7c9-48b0-bd2b-65205aceea1b.004.png)
 
 7 sec to print all accounts.
 
